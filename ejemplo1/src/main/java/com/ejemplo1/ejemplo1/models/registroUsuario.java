@@ -7,4 +7,7 @@ public class registroUsuario {
     private String apellido;
     private String email;
     private String telefono;
+    private String direccion;
+
+    //Se agrego por ultimo dirección
 }
